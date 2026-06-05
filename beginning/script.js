@@ -1,1 +1,1 @@
-alert("welcome to my journey")
+alert("welcome to my journey") //it pop up

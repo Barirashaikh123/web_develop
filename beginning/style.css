@@ -1,4 +1,12 @@
-body{
+body {
 
-background-color: rgb(204, 174, 119); /*I want background to be blue but still html oisnot connectde to css so color willnot change*/
-color: greenyellow;/*color of text will change */}
+    background-color: rgb(204, 174, 119);
+    /*I want background to be blue but still html oisnot connectde to css so color willnot change*/
+    color: greenyellow;
+    /*color of text will change */
+}
+
+td {
+    border: 2px solid black;
+
+}
